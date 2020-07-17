@@ -4,6 +4,19 @@
 
 ![Miray's github stats](https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true)
 
+### Contributing
+
+<div align="left">
+<a href="https://github.com/kwsch/NHSE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kwsch&repo=NHSE" />
+</a>
+<a href="https://github.com/berichan/GetNHSE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berichan&repo=GetNHSE" />
+</a>
+  <a href="https://github.com/xcruxiex/BBDThemes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcruxiex&repo=BBDThemes" />
+</a>
+    </div>
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 <img src="https://img.shields.io/badge/Discord-XxMirayxX21%233561-7289da?style=for-the-badge&logo=discord"/>
 
