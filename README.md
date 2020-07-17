@@ -4,7 +4,7 @@
 
 ![Miray's github stats](https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true)
 
-### Contributing
+### :octocat: Contributing
 
 <div align="left">
 <a href="https://github.com/kwsch/NHSE">
