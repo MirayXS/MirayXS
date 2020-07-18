@@ -37,7 +37,7 @@
 ### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge">
 
 
-<div align="left">
+<div align="center">
 <a href="https://github.com/MirayXS/SplatHeX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
 </a>
