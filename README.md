@@ -6,7 +6,7 @@
 
 ### :octocat: Contributing
 
-<div align="left">
+<div align="center">
 <a href="https://github.com/kwsch/NHSE">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kwsch&repo=NHSE" />
 </a>
