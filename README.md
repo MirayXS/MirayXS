@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Miray!](https://mirayxs.github.io) 👋
 
-![Miray's github stats](https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true)
+![Miray's github stats](https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true)
 
 ### :octocat: Contributing
 
