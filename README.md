@@ -34,8 +34,7 @@
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
-### 
-</div> <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge">
+### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge">
 
 
 <div align="left">
@@ -45,4 +44,5 @@
 <a href="https://github.com/MirayXS/SplatDatabase">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatDatabase" />
 </a>
+    </div>
     </div>
