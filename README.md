@@ -34,6 +34,8 @@
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033)
+
 ### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge">
 
 
