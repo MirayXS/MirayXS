@@ -6,7 +6,7 @@
   
 ![Miray's github stats](https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true)
   
-  <div align="right">
+  <div align="center">
   
   ![Top Langs](https://github-readme-stats-mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide_langs_below=1)
   
