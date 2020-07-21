@@ -10,13 +10,6 @@
 
 </div>
 
-<div align="center">
-  
-  ![Miray's github stats](https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true)
-  
-  ![Top Langs](https://github-readme-stats-mirayxs.vercel.app/api/top-langs/?username=MirayXS)
-    </div>
-
 ### :octocat: Contributing
 
 <div align="center">
