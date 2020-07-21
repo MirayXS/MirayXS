@@ -69,7 +69,7 @@
   
 <!--START_SECTION:waka-->
 📊 **This week I spent my time on** 
-  
+
 ```text
 ⌚︎ Timezone: Europe/Rome
 
@@ -86,6 +86,7 @@
 
 
 ```
+
 
 <!--END_SECTION:waka-->
 
