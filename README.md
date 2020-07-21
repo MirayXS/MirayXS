@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Miray!](https://mirayxs.github.io) 👋
 
-<div align="center">
+<!-- <div align="center">
   
 ![Miray's github stats](https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true)
   
@@ -12,7 +12,10 @@
   
   </div>
 
-</div>
+<!-- </div> -->
+
+  <img align="center" src="https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true&line_height=27" />
+  <img align="center" src="https://github-readme-stats.mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide_langs_below=1" alt="Anurag's github stats" />
 
 ### :octocat: Contributing
 
