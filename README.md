@@ -55,6 +55,8 @@
 
   <hr>
 
+<div align="left">
+
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
@@ -64,8 +66,6 @@
 4. ❌ Closed PR [#5](https://github.com//MirayXS/ACNH-SavefileViewer/pull/5) in [MirayXS/ACNH-SavefileViewer](https://github.com//MirayXS/ACNH-SavefileViewer)
 5. 🗣 Commented on [#220](https://github.com//wei/pull/issues/220) in [wei/pull](https://github.com//wei/pull)
 <!--END_SECTION:activity-->
-
-<div align="left">
   
 <!--START_SECTION:waka-->
 📊 **This week I spent my time on** 
@@ -88,6 +88,22 @@
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
+
+<hr>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const miray = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [Node]
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 </div>
 
