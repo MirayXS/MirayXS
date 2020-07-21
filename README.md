@@ -52,6 +52,12 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com//MirayXS/github-readme-stats/pull/12) in [MirayXS/github-readme-stats](https://github.com//MirayXS/github-readme-stats)
+2. ❗️ Opened issue [#221](https://github.com//wei/pull/issues/221) in [wei/pull](https://github.com//wei/pull)
+3. ❌ Closed PR [#5](https://github.com//MirayXS/ACNH-SavefileViewer/pull/5) in [MirayXS/ACNH-SavefileViewer](https://github.com//MirayXS/ACNH-SavefileViewer)
+4. 🗣 Commented on [#220](https://github.com//wei/pull/issues/220) in [wei/pull](https://github.com//wei/pull)
+5. ❗️ Closed issue [#3](https://github.com//MirayXS/ACNH-IMAGEZIP/issues/3) in [MirayXS/ACNH-IMAGEZIP](https://github.com//MirayXS/ACNH-IMAGEZIP)
+<!--END_SECTION:activity-->
 
 ### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge">
 
