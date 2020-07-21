@@ -66,6 +66,26 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Europe/Rome
+
+💬 Languages: 
+
+
+🔥 Editors: 
+
+
+🐱‍💻 Projects: 
+
+
+💻 Operating Systems: 
+
+
+```
+
+
 <!--END_SECTION:waka-->
 
 <hr>
