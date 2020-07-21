@@ -15,7 +15,9 @@
 <!-- </div> -->
 
   <img align="center" src="https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true&line_height=27" />
-  <img align="center" src="https://github-readme-stats.mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide_langs_below=1" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide_langs_below=1" alt="MirayXS's github stats" />
+  
+  <hr>
 
 ### :octocat: Contributing
 
@@ -32,6 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcruxiex&repo=BBDThemes" />
 </a>
   </div>
+  
+  <hr>
     
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 <img src="https://img.shields.io/badge/Discord-XxMirayxX21%233561-7289da?style=for-the-badge&logo=discord"/>
@@ -49,6 +53,8 @@
 
 ![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033)
 
+  <hr>
+
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
@@ -61,6 +67,8 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<hr>
 
 ### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge">
 
