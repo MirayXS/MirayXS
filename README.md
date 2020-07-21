@@ -49,6 +49,10 @@
 
 ![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033)
 
+### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
+
+<!--START_SECTION:activity-->
+
 ### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge">
 
 
