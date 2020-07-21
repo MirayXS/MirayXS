@@ -65,10 +65,10 @@
 5. 🗣 Commented on [#220](https://github.com//wei/pull/issues/220) in [wei/pull](https://github.com//wei/pull)
 <!--END_SECTION:activity-->
 
+<div align="left">
+  
 <!--START_SECTION:waka-->
 📊 **This week I spent my time on** 
-
-<div align="left">
   
 ```text
 ⌚︎ Timezone: Europe/Rome
@@ -87,10 +87,9 @@
 
 ```
 
-</div>
-
-
 <!--END_SECTION:waka-->
+
+</div>
 
 <hr>
 
