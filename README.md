@@ -130,5 +130,8 @@ const miray = {
 <a href="https://github.com/MirayXS/SplatDatabase">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatDatabase" />
 </a>
+  <a href="https://github.com/MirayXS/HelperJS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=HelperJS" />
+</a>
     </div>
     </div>
