@@ -66,6 +66,8 @@
 4. 🎉 Merged PR [#12](https://github.com//MirayXS/github-readme-stats/pull/12) in [MirayXS/github-readme-stats](https://github.com//MirayXS/github-readme-stats)
 5. ❗️ Opened issue [#221](https://github.com//wei/pull/issues/221) in [wei/pull](https://github.com//wei/pull)
 <!--END_SECTION:activity-->
+* ⬆️ Pushed 1 commit to MirayXS/SplatNET
+* ⬆️ Pushed 1 commit to MirayXS/MirayXS
 * ⬆️ Pushed 1 commit to MirayXS/MirayXS
 * ⬆️ Pushed 1 commit to MirayXS/MirayXS
 * ⬆️ Pushed 1 commit to MirayXS/SplatNET
@@ -74,8 +76,6 @@
 * ⬆️ Pushed 1 commit to MirayXS/HelperJS
 * ⬆️ Pushed 1 commit to MirayXS/MirayXS
 * ⬆️ Pushed 1 commit to MirayXS/MirayXS
-* ⬆️ Pushed 1 commit to MirayXS/MirayXS
-* ⬆️ Pushed 1 commit to MirayXS/HelperJS
 
   
 <!--START_SECTION:waka-->
@@ -112,16 +112,18 @@ Windows                  10 mins             ███████████�
 
 <!--END_SECTION:waka-->
 
-⭐️ 4 📦 MirayXS/ACNH-IMAGEZIP
-⭐️ 2 📦 xcruxiex/BBDThemes
-⭐️ 1 📦 MirayXS/ACNHCDN
-⭐️ 0 📦 MirayXS/ACNH-SavefileViewer
-⭐️ 0 📦 MirayXS/ACNHSave
-⭐️ 0 📦 MirayXS/BetterUserBackgrounds
-⭐️ 0 📦 MirayXS/github-readme-stats
-⭐️ 0 📦 MirayXS/HelperJS
-⭐️ 0 📦 MirayXS/MirayAPI
-⭐️ 0 📦 MirayXS/MirayCDN
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 4 | [MirayXS/ACNH-IMAGEZIP](https://github.com/MirayXS/ACNH-IMAGEZIP) | Animal Crossing: New Horizons Images - IMAGEZIP |
+| 📦 | 2 | [xcruxiex/BBDThemes](https://github.com/xcruxiex/BBDThemes) | My BBD Repo for Aesthetics and Fixes, of Various Themes. (And Somtimes Built or Discontinued Themes). |
+| 📦 | 1 | [MirayXS/ACNHCDN](https://github.com/MirayXS/ACNHCDN) | Animal Crossing: New Horizons CDN Images |
+| 📦 | 0 | [MirayXS/ACNH-SavefileViewer](https://github.com/MirayXS/ACNH-SavefileViewer) | Animal Crossing: New Horizons Save File Viewer |
+| 📦 | 0 | [MirayXS/ACNHSave](https://github.com/MirayXS/ACNHSave) | Animal Crossing: New Horizons Saves Archive |
+| 📦 | 0 | [MirayXS/BetterUserBackgrounds](https://github.com/MirayXS/BetterUserBackgrounds) | Custom Modal and Pop Up User Backgrounds! |
+| 📦 | 0 | [MirayXS/github-readme-stats](https://github.com/MirayXS/github-readme-stats) | Dynamically generated stats for your github readmes |
+| 📦 | 0 | [MirayXS/HelperJS](https://github.com/MirayXS/HelperJS) | Helper is a simple entrance-logging discord bot |
+| 📦 | 0 | [MirayXS/MirayAPI](https://github.com/MirayXS/MirayAPI) | [MEDIA "API"] + Credits |
+| 📦 | 0 | [MirayXS/MirayCDN](https://github.com/MirayXS/MirayCDN) | Miray Content Delivery Network |
 
 
 
@@ -161,5 +163,5 @@ const miray = {
     <hr>
 <p align="center">
   Last refresh: 
-  <b>2020-07-22T19:31:32Z</b>
+  <b>2020-07-22T20:03:53Z</b>
 </p>
