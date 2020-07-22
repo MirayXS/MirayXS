@@ -1,3 +1,9 @@
+name: pREADME Update
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -6,10 +12,10 @@ jobs:
       with:
         persist-credentials: false
         fetch-depth: 0
-    - name: Create README.md
+    - name: pUpdate README.md
       uses: actions-js/profile-readme@master
       with:
-        username: <your username>
+        username: MirayXS
         github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Commit & Push changes
       uses: actions-js/push@master
