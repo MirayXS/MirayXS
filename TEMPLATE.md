@@ -103,7 +103,7 @@ Windows                  10 mins             ███████████�
 
 <!--END_SECTION:waka-->
 
-<!--GITHUB_REPOS:{"rows": 10, "raw": false}-->
+<!--GITHUB_REPOS:{"rows": 100, "raw": false}-->
 
 
 
