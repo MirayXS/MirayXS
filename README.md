@@ -60,11 +60,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com//anmol098/waka-readme-stats/issues/3) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. ❌ Closed PR [#6](https://github.com//MirayXS/ACNH-SavefileViewer/pull/6) in [MirayXS/ACNH-SavefileViewer](https://github.com//MirayXS/ACNH-SavefileViewer)
-3. 🎉 Merged PR [#12](https://github.com//MirayXS/github-readme-stats/pull/12) in [MirayXS/github-readme-stats](https://github.com//MirayXS/github-readme-stats)
-4. ❗️ Opened issue [#221](https://github.com//wei/pull/issues/221) in [wei/pull](https://github.com//wei/pull)
-5. ❌ Closed PR [#5](https://github.com//MirayXS/ACNH-SavefileViewer/pull/5) in [MirayXS/ACNH-SavefileViewer](https://github.com//MirayXS/ACNH-SavefileViewer)
+1. 🗣 Commented on [#3](https://github.com//anmol098/waka-readme-stats/issues/3) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. ❗️ Opened issue [#3](https://github.com//anmol098/waka-readme-stats/issues/3) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+3. ❌ Closed PR [#6](https://github.com//MirayXS/ACNH-SavefileViewer/pull/6) in [MirayXS/ACNH-SavefileViewer](https://github.com//MirayXS/ACNH-SavefileViewer)
+4. 🎉 Merged PR [#12](https://github.com//MirayXS/github-readme-stats/pull/12) in [MirayXS/github-readme-stats](https://github.com//MirayXS/github-readme-stats)
+5. ❗️ Opened issue [#221](https://github.com//wei/pull/issues/221) in [wei/pull](https://github.com//wei/pull)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
