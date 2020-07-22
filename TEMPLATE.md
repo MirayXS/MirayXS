@@ -140,6 +140,7 @@ const miray = {
 </a>
     </div>
     </div>
+    <hr>
 <p align="center">
   Last refresh: 
   <b><!--TIMESTAMP--></b>
