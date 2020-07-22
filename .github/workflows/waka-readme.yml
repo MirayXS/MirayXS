@@ -2,7 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    # Runs at midnight CEST
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
