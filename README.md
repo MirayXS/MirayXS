@@ -15,7 +15,7 @@
 <!-- </div> -->
 
   <img align="center" src="https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true&line_height=27" />
-  <img align="center" src="https://github-readme-stats.mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide_langs_below=1" alt="MirayXS's github stats" />
+  <img align="center" src="https://github-readme-stats.mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide=batchfile" alt="MirayXS's github stats" />
   
   <hr>
 
