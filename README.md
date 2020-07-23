@@ -8,7 +8,7 @@
   
   <div align="center">
   
-  ![Top Langs](https://github-readme-stats-mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide_langs_below=1)
+  ![Top Langs](https://github-readme-stats-mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide=batchfile)
   
   </div>
 
