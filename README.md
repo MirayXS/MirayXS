@@ -60,11 +60,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//IamTheRealSami/IamTheRealSami/issues/2) in [IamTheRealSami/IamTheRealSami](https://github.com//IamTheRealSami/IamTheRealSami)
-2. 🗣 Commented on [#3](https://github.com//anmol098/waka-readme-stats/issues/3) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-3. ❗️ Opened issue [#3](https://github.com//anmol098/waka-readme-stats/issues/3) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-4. ❌ Closed PR [#6](https://github.com//MirayXS/ACNH-SavefileViewer/pull/6) in [MirayXS/ACNH-SavefileViewer](https://github.com//MirayXS/ACNH-SavefileViewer)
-5. 🎉 Merged PR [#12](https://github.com//MirayXS/github-readme-stats/pull/12) in [MirayXS/github-readme-stats](https://github.com//MirayXS/github-readme-stats)
+1. 🗣 Commented on [#220](https://github.com//wei/pull/issues/220) in [wei/pull](https://github.com//wei/pull)
+2. ❗️ Opened issue [#2](https://github.com//IamTheRealSami/IamTheRealSami/issues/2) in [IamTheRealSami/IamTheRealSami](https://github.com//IamTheRealSami/IamTheRealSami)
+3. 🗣 Commented on [#3](https://github.com//anmol098/waka-readme-stats/issues/3) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+4. ❗️ Opened issue [#3](https://github.com//anmol098/waka-readme-stats/issues/3) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+5. ❌ Closed PR [#6](https://github.com//MirayXS/ACNH-SavefileViewer/pull/6) in [MirayXS/ACNH-SavefileViewer](https://github.com//MirayXS/ACNH-SavefileViewer)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
