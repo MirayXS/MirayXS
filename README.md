@@ -68,9 +68,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#174](https://github.com//anuraghazra/github-readme-stats/issues/174) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 2. 🗣 Commented on [#174](https://github.com//anuraghazra/github-readme-stats/issues/174) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#168](https://github.com//anuraghazra/github-readme-stats/issues/168) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-4. 🗣 Commented on [#174](https://github.com//anuraghazra/github-readme-stats/issues/174) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#153](https://github.com//anuraghazra/github-readme-stats/issues/153) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+3. 🗣 Commented on [#174](https://github.com//anuraghazra/github-readme-stats/issues/174) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+4. 🗣 Commented on [#168](https://github.com//anuraghazra/github-readme-stats/issues/168) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+5. 🗣 Commented on [#174](https://github.com//anuraghazra/github-readme-stats/issues/174) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
