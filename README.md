@@ -91,7 +91,7 @@
 
 <hr>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const miray = {
@@ -105,7 +105,7 @@ const miray = {
 
 </div>
 
-<hr>
+<hr> -->
 
 <!-- ### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge"> -->
 
