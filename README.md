@@ -107,7 +107,7 @@ const miray = {
 
 <hr>
 
-### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge">
+<!-- ### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge"> -->
 
 
 <div align="center">
