@@ -19,7 +19,7 @@
   
   <hr>
 
-### :octocat: Contributing
+<!-- ### :octocat: Contributing
 
 <div align="center">
 <a href="https://github.com/kwsch/NHSE">
@@ -35,7 +35,7 @@
 </a>
   </div>
   
-  <hr>
+  <hr> -->
     
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 <img src="https://img.shields.io/badge/Discord-XxMirayxX21%233561-7289da?style=for-the-badge&logo=discord"/>
