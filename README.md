@@ -66,11 +66,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com//anuraghazra/github-readme-stats/issues/233) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. ❗️ Opened issue [#238](https://github.com//anuraghazra/github-readme-stats/issues/238) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#153](https://github.com//anuraghazra/github-readme-stats/issues/153) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-4. 🗣 Commented on [#237](https://github.com//anuraghazra/github-readme-stats/issues/237) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#174](https://github.com//anuraghazra/github-readme-stats/issues/174) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. ❗️ Closed issue [#14](https://github.com//KingLycosa/acnhpoker/issues/14) in [KingLycosa/acnhpoker](https://github.com//KingLycosa/acnhpoker)
+2. 🗣 Commented on [#233](https://github.com//anuraghazra/github-readme-stats/issues/233) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+3. ❗️ Opened issue [#238](https://github.com//anuraghazra/github-readme-stats/issues/238) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+4. 🗣 Commented on [#153](https://github.com//anuraghazra/github-readme-stats/issues/153) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+5. 🗣 Commented on [#237](https://github.com//anuraghazra/github-readme-stats/issues/237) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
