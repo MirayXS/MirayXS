@@ -48,14 +48,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/emojis/735928635181105262.png?v=1"></code>
 
 <code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/heroku.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/windows.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/googlechrome.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/github.svg"></code>
-
-<code><img height="20" src="https://cdn.discordapp.com/emojis/735928635181105262.png?v=1"></code>
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
