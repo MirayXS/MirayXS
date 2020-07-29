@@ -50,10 +50,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="20" src="https://cdn.discordapp.com/emojis/735928635181105262.png?v=1"></code>
 
-<code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/heroku.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/windows.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/googlechrome.svg"></code>
+<code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
+<code><img height="20" src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg"></code>
+<code><img height="20" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
+<code><img height="20" src="https://www.google.com/chrome/static/images/chrome-logo.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/github.svg"></code>
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
