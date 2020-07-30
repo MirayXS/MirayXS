@@ -67,11 +67,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1403](https://github.com//Sainan/Universal-Bypass/issues/1403) in [Sainan/Universal-Bypass](https://github.com//Sainan/Universal-Bypass)
-2. 💪 Opened PR [#1403](https://github.com//Sainan/Universal-Bypass/pull/1403) in [Sainan/Universal-Bypass](https://github.com//Sainan/Universal-Bypass)
-3. ❗️ Closed issue [#14](https://github.com//KingLycosa/acnhpoker/issues/14) in [KingLycosa/acnhpoker](https://github.com//KingLycosa/acnhpoker)
-4. 🗣 Commented on [#233](https://github.com//anuraghazra/github-readme-stats/issues/233) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-5. ❗️ Opened issue [#238](https://github.com//anuraghazra/github-readme-stats/issues/238) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. 💪 Opened PR [#1913](https://github.com//PreMiD/Presences/pull/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+2. 🗣 Commented on [#1403](https://github.com//Sainan/Universal-Bypass/issues/1403) in [Sainan/Universal-Bypass](https://github.com//Sainan/Universal-Bypass)
+3. 💪 Opened PR [#1403](https://github.com//Sainan/Universal-Bypass/pull/1403) in [Sainan/Universal-Bypass](https://github.com//Sainan/Universal-Bypass)
+4. ❗️ Closed issue [#14](https://github.com//KingLycosa/acnhpoker/issues/14) in [KingLycosa/acnhpoker](https://github.com//KingLycosa/acnhpoker)
+5. 🗣 Commented on [#233](https://github.com//anuraghazra/github-readme-stats/issues/233) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
