@@ -54,7 +54,7 @@
 <code><img height="20" src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
 <code><img height="20" src="https://www.google.com/chrome/static/images/chrome-logo.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/github.svg"></code>
+<!-- <code><img height="20" src="https://simpleicons.org/icons/github.svg"></code> -->
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
