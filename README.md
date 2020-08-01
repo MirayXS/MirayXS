@@ -67,11 +67,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#277](https://github.com//anuraghazra/github-readme-stats/pull/277) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#1904](https://github.com//PreMiD/Presences/issues/1904) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-3. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-4. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-5. 💪 Opened PR [#1913](https://github.com//PreMiD/Presences/pull/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+1. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+2. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+3. 💪 Opened PR [#277](https://github.com//anuraghazra/github-readme-stats/pull/277) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+4. 🗣 Commented on [#1904](https://github.com//PreMiD/Presences/issues/1904) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+5. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
