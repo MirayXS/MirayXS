@@ -14,7 +14,7 @@
 
 <!-- </div> -->
 
-  <img align="center" src="https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&count_private=true&plang_row_items=4" />
+  <img align="center" src="https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&count_private=true" />
   <img align="center" src="https://github-readme-stats.mirayxs.vercel.app/api/top-langs/?username=MirayXS" alt="MirayXS's github stats" />
   
   <hr>
