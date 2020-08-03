@@ -85,34 +85,34 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-23.0%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-22.9%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,355 Contributions in year 2020
+> 🏆 1,364 Contributions in year 2020
  > 
 > 📦 Used 822.8 kB in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 
-> 📜 19 Public Repository 
+> 📜 19 Public Repositories 
  > 
-> 🔑 2 Owned Private Repository 
-
+> 🔑 1 Owned Private Repository 
+ > 
 **I'm a night 🦉** 
 
 ```text
 🌞 Morning    65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
-🌆 Daytime    255 commits    ███████░░░░░░░░░░░░░░░░░░   30.54% 
+🌆 Daytime    253 commits    ███████░░░░░░░░░░░░░░░░░░   30.3% 
 🌃 Evening    279 commits    ████████░░░░░░░░░░░░░░░░░   33.41% 
-🌙 Night      236 commits    ███████░░░░░░░░░░░░░░░░░░   28.26%
+🌙 Night      238 commits    ███████░░░░░░░░░░░░░░░░░░   28.5%
 
 ```
 📅 **I'm Most Productive on Tuesdays** 
 
 ```text
-Monday       88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
-Tuesday      207 commits    ██████░░░░░░░░░░░░░░░░░░░   24.79% 
+Monday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
+Tuesday      198 commits    ██████░░░░░░░░░░░░░░░░░░░   23.71% 
 Wednesday    150 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
 Thursday     115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
 Friday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
