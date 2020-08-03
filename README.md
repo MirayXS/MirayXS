@@ -66,6 +66,8 @@
 ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033)
 ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
 
+![Waka Readme](https://github.com/MirayXS/MirayXS/workflows/Waka%20Readme/badge.svg)
+![Github Activity README](https://github.com/MirayXS/MirayXS/workflows/GitHub%20Activity%20README/badge.svg)
   <hr>
 
 <div align="left">
