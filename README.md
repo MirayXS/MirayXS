@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
 ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
-![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch)
+![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch&color=8A96E9)
 
 ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033)
 ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
