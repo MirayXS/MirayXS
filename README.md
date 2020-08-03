@@ -69,11 +69,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#284](https://github.com//anuraghazra/github-readme-stats/issues/284) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-3. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-4. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-5. 💪 Opened PR [#277](https://github.com//anuraghazra/github-readme-stats/pull/277) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. ❗️ Opened issue [#33](https://github.com//anmol098/waka-readme-stats/issues/33) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. ❗️ Opened issue [#2](https://github.com//Jxyme/covid-19-discord-custom-status/issues/2) in [Jxyme/covid-19-discord-custom-status](https://github.com//Jxyme/covid-19-discord-custom-status)
+3. 🗣 Commented on [#277](https://github.com//anuraghazra/github-readme-stats/issues/277) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+4. 🗣 Commented on [#284](https://github.com//anuraghazra/github-readme-stats/issues/284) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+5. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
