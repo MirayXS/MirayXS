@@ -75,11 +75,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com//Jxyme/covid-19-discord-custom-status/issues/2) in [Jxyme/covid-19-discord-custom-status](https://github.com//Jxyme/covid-19-discord-custom-status)
-2. ❗️ Closed issue [#36](https://github.com//Cuyler36/MyHorizons/issues/36) in [Cuyler36/MyHorizons](https://github.com//Cuyler36/MyHorizons)
-3. 🗣 Commented on [#2](https://github.com//Jxyme/covid-19-discord-custom-status/issues/2) in [Jxyme/covid-19-discord-custom-status](https://github.com//Jxyme/covid-19-discord-custom-status)
-4. 🗣 Commented on [#2](https://github.com//Jxyme/covid-19-discord-custom-status/issues/2) in [Jxyme/covid-19-discord-custom-status](https://github.com//Jxyme/covid-19-discord-custom-status)
-5. ❗️ Opened issue [#33](https://github.com//anmol098/waka-readme-stats/issues/33) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+1. ❗️ Closed issue [#33](https://github.com//anmol098/waka-readme-stats/issues/33) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. 🗣 Commented on [#33](https://github.com//anmol098/waka-readme-stats/issues/33) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+3. ❗️ Closed issue [#2](https://github.com//Jxyme/covid-19-discord-custom-status/issues/2) in [Jxyme/covid-19-discord-custom-status](https://github.com//Jxyme/covid-19-discord-custom-status)
+4. ❗️ Closed issue [#36](https://github.com//Cuyler36/MyHorizons/issues/36) in [Cuyler36/MyHorizons](https://github.com//Cuyler36/MyHorizons)
+5. 🗣 Commented on [#2](https://github.com//Jxyme/covid-19-discord-custom-status/issues/2) in [Jxyme/covid-19-discord-custom-status](https://github.com//Jxyme/covid-19-discord-custom-status)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
