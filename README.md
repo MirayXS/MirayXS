@@ -4,18 +4,18 @@
 
 <!-- <div align="center">
   
-![Miray's github stats](https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true)
+![Miray's github stats](https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true)
   
   <div align="center">
   
-  ![Top Langs](https://github-readme-stats-mirayxs.vercel.app/api/top-langs/?username=MirayXS&hide=batchfile)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS&hide=batchfile)
   
   </div>
 
 <!-- </div> -->
 
-  <img align="center" src="https://github-readme-stats-mirayxs.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-stats.mirayxs.vercel.app/api/top-langs/?username=MirayXS" alt="MirayXS's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS" alt="MirayXS's github stats" />
   
   <hr>
 
