@@ -75,11 +75,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#277](https://github.com//anuraghazra/github-readme-stats/pull/277) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-3. ❗️ Opened issue [#78](https://github.com//JiveOff/roPresence/issues/78) in [JiveOff/roPresence](https://github.com//JiveOff/roPresence)
-4. ❗️ Opened issue [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
-5. 🗣 Commented on [#308](https://github.com//anuraghazra/github-readme-stats/issues/308) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. ❗️ Closed issue [#415](https://github.com//rauenzi/BetterDiscordApp/issues/415) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
+2. 🗣 Commented on [#415](https://github.com//rauenzi/BetterDiscordApp/issues/415) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
+3. ❗️ Opened issue [#415](https://github.com//rauenzi/BetterDiscordApp/issues/415) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
+4. ❌ Closed PR [#277](https://github.com//anuraghazra/github-readme-stats/pull/277) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+5. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
