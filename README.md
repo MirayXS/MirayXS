@@ -75,11 +75,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com//Molunerfinn/node-github-profile-summary/issues/14) in [Molunerfinn/node-github-profile-summary](https://github.com//Molunerfinn/node-github-profile-summary)
-2. ❗️ Opened issue [#14](https://github.com//Molunerfinn/node-github-profile-summary/issues/14) in [Molunerfinn/node-github-profile-summary](https://github.com//Molunerfinn/node-github-profile-summary)
+1. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
+2. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
 3. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
-4. ❗️ Opened issue [#1](https://github.com//xcruxiex/Comfy-Gamer/issues/1) in [xcruxiex/Comfy-Gamer](https://github.com//xcruxiex/Comfy-Gamer)
-5. ❗️ Closed issue [#415](https://github.com//rauenzi/BetterDiscordApp/issues/415) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
+4. ❗️ Closed issue [#14](https://github.com//Molunerfinn/node-github-profile-summary/issues/14) in [Molunerfinn/node-github-profile-summary](https://github.com//Molunerfinn/node-github-profile-summary)
+5. ❗️ Opened issue [#14](https://github.com//Molunerfinn/node-github-profile-summary/issues/14) in [Molunerfinn/node-github-profile-summary](https://github.com//Molunerfinn/node-github-profile-summary)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
