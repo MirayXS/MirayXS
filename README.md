@@ -47,6 +47,7 @@
 ### **Languages and Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
