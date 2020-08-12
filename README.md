@@ -45,11 +45,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
-2. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
-3. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
-4. ❗️ Closed issue [#14](https://github.com//Molunerfinn/node-github-profile-summary/issues/14) in [Molunerfinn/node-github-profile-summary](https://github.com//Molunerfinn/node-github-profile-summary)
-5. ❗️ Opened issue [#14](https://github.com//Molunerfinn/node-github-profile-summary/issues/14) in [Molunerfinn/node-github-profile-summary](https://github.com//Molunerfinn/node-github-profile-summary)
+1. ❌ Closed PR [#4](https://github.com//MirayXS/Presences/pull/4) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+2. 💪 Opened PR [#4](https://github.com//MirayXS/Presences/pull/4) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+3. ❌ Closed PR [#3](https://github.com//MirayXS/Presences/pull/3) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+4. 💪 Opened PR [#3](https://github.com//MirayXS/Presences/pull/3) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+5. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
