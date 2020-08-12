@@ -2,47 +2,10 @@
 
 ### Hi there, I'm [Miray!](https://mirayxs.github.io) <a href="https://discord.gg/CkdjnCR"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
 
-<!-- <div align="center">
-  
-![Miray's github stats](https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true)
-  
-  <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS&hide=batchfile)
-  
-  </div>
-
-<!-- </div> -->
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS" alt="MirayXS's github stats" />
   
   <hr>
-
-<!-- ### :octocat: Contributing
-
-<div align="center">
-<a href="https://github.com/kwsch/NHSE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kwsch&repo=NHSE" />
-</a>
-<a href="https://github.com/berichan/GetNHSE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berichan&repo=GetNHSE" />
-</a>
-    </div>
-    <div align="center">
-    <a href="https://github.com/xcruxiex/BBDThemes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcruxiex&repo=BBDThemes" />
-</a>
-  </div>
-  
-  <hr> -->
-    
-<!-- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-<img src="https://img.shields.io/badge/Discord-XxMirayxX21%233561-7289da?style=for-the-badge&logo=discord"/> -->
-
-<!-- ### <img src="https://codedotspectra.github.io/themes/badges/diamond.svg"  width="27px"> <img src="https://img.shields.io/badge/-mirayxs.github.io-45ddc0?style=for-the-badge" a href="https://mirayxs.github.io"></a> -->
-
-<!-- <img src="https://codedotspectra.github.io/themes/badges/sword.svg"  width="27px"> <img src="https://img.shields.io/badge/-LANGUAGES%20AND%20TOOLS-4CE949?style=for-the-badge"> -->
 
 ### **Languages and Tools**  
 
@@ -61,6 +24,9 @@
 <code><img height="20" src="https://simpleicons.org/icons/github.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png"></code>
 <code><img height="20" src="https://cdn.discordapp.com/emojis/735928635181105262.png?v=1"></code>
+
+<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/it.png"></code>
+<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/en.png"></code>
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
@@ -167,25 +133,6 @@ Batchfile                1 repos             █░░░░░░░░░░�
 
 <hr>
 
-<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const miray = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [Node]
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
-
-<hr> -->
-
-<!-- ### <img src="https://simpleicons.org/icons/github.svg"  width="27px"> <img src="https://img.shields.io/badge/-other pinned repositories-24292E?style=for-the-badge"> -->
-
-
 <div align="center">
 <a href="https://github.com/MirayXS/SplatHeX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
@@ -193,9 +140,6 @@ const miray = {
 <a href="https://github.com/MirayXS/SplatDatabase">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatDatabase" />
 </a>
-  <!-- <a href="https://github.com/MirayXS/HelperJS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=HelperJS" />
-</a> -->
   <hr>
 <a href="https://github.com/MirayXS/UnityNite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=UnityNite" />
