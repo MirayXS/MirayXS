@@ -45,11 +45,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com//MirayXS/Presences/pull/6) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
-2. 💪 Opened PR [#6](https://github.com//MirayXS/Presences/pull/6) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
-3. ❌ Closed PR [#5](https://github.com//MirayXS/Presences/pull/5) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
-4. 💪 Opened PR [#5](https://github.com//MirayXS/Presences/pull/5) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
-5. ❌ Closed PR [#4](https://github.com//MirayXS/Presences/pull/4) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+1. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+2. ❌ Closed PR [#6](https://github.com//MirayXS/Presences/pull/6) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+3. 💪 Opened PR [#6](https://github.com//MirayXS/Presences/pull/6) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+4. ❌ Closed PR [#5](https://github.com//MirayXS/Presences/pull/5) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+5. 💪 Opened PR [#5](https://github.com//MirayXS/Presences/pull/5) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
