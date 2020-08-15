@@ -53,9 +53,9 @@
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-23.3%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21.8%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
