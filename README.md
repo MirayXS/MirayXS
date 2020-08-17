@@ -53,23 +53,23 @@
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-23.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.3%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 1,429 Contributions in year 2020
+> 🏆 1,430 Contributions in the year 2020
  > 
-> 📦 Used 846.8 kB in GitHub's Storage 
+> 📦 846.8 kB Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 18 Public repositories
  > 
-> 🔑 1 Owned Private Repository 
+> 🔑 1 Private repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    57 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
@@ -78,7 +78,7 @@
 🌙 Night      258 commits    ███████░░░░░░░░░░░░░░░░░░   30.42%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
@@ -92,27 +92,27 @@ Sunday       113 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Rome
+⌚︎ Time zone: Europe/Rome
 
-💬 Languages: 
+💬 Programming Languages: 
 JavaScript               17 mins             ████████████████████████░   96.62% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  17 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
 NovaCrypt                17 mins             █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  17 mins             █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
