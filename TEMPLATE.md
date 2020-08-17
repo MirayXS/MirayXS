@@ -45,9 +45,8 @@
 <details>
 <summary>GitHub Repositories</summary>
   ```text
- 
  <!--GITHUB_REPOS:{"rows": 100, "raw": true}-->
-  
+  ```
 
   </details>
   <hr>
