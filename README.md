@@ -45,11 +45,11 @@
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//SiLeNSwOrD/OwlHub/issues/1) in [SiLeNSwOrD/OwlHub](https://github.com//SiLeNSwOrD/OwlHub)
-2. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
-3. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-4. ❌ Closed PR [#6](https://github.com//MirayXS/Presences/pull/6) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
-5. 💪 Opened PR [#6](https://github.com//MirayXS/Presences/pull/6) in [MirayXS/Presences](https://github.com//MirayXS/Presences)
+1. 🗣 Commented on [#1975](https://github.com//PreMiD/Presences/issues/1975) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+2. 💪 Opened PR [#1975](https://github.com//PreMiD/Presences/pull/1975) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+3. ❗️ Opened issue [#1](https://github.com//SiLeNSwOrD/OwlHub/issues/1) in [SiLeNSwOrD/OwlHub](https://github.com//SiLeNSwOrD/OwlHub)
+4. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
+5. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
