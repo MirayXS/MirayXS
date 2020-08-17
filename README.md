@@ -40,6 +40,33 @@
 
 ![WakaStats README](https://github.com/MirayXS/MirayXS/workflows/WakaStats%20README/badge.svg)
 ![Github Activity README](https://github.com/MirayXS/MirayXS/workflows/GitHub%20Activity%20README/badge.svg)
+![Profile Stats README](https://github.com/MirayXS/MirayXS/workflows/Profile%20Stats%20README/badge.svg)
+
+<details>
+<summary>GitHub Repositories</summary>
+  
+  ⭐️ 5 📦 MirayXS/ACNH-IMAGEZIP
+⭐️ 2 📦 MirayXS/ACNHCDN
+⭐️ 2 📦 xcruxiex/BBDThemes
+⭐️ 1 📦 MirayXS/SplatNET
+⭐️ 0 📦 MirayXS/ACNH-SavefileViewer
+⭐️ 0 📦 MirayXS/ACNHSave
+⭐️ 0 📦 MirayXS/BetterUserBackgrounds
+⭐️ 0 📦 MirayXS/HybridJS
+⭐️ 0 📦 MirayXS/MirayAPI
+⭐️ 0 📦 MirayXS/MirayCDN
+⭐️ 0 📦 MirayXS/MirayDB
+⭐️ 0 📦 MirayXS/MirayStation
+⭐️ 0 📦 MirayXS/MirayXS
+⭐️ 0 📦 MirayXS/mirayxs.github.io
+⭐️ 0 📦 MirayXS/NHSE-VillagerDB
+⭐️ 0 📦 MirayXS/Presences
+⭐️ 0 📦 MirayXS/SplatDatabase
+⭐️ 0 📦 MirayXS/SplatHeX
+⭐️ 0 📦 MirayXS/spotify-readme
+⭐️ 0 📦 MirayXS/UnityNite
+
+  </details>
   <hr>
   
   <div align="left">
@@ -64,7 +91,9 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 4. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
 5. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
 <!--END_SECTION:activity-->
-  
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true, "exclude": ["IssueCommentEvent", "IssuesEvent", "PullRequestEvent", "PushEvent"]-->
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
@@ -162,3 +191,10 @@ Batchfile                1 repos             █░░░░░░░░░░�
 </a>
     </div>
     </div>
+    
+------------
+<p align="center">
+  Last refresh: 
+  <b>2020-08-17T22:26:16Z</b>
+</p>
+    
