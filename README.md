@@ -44,29 +44,29 @@
 
 <details>
 <summary>GitHub Repositories</summary>
-  ```text
- 
- ⭐️ 5 📦 MirayXS/ACNH-IMAGEZIP
-⭐️ 2 📦 MirayXS/ACNHCDN
-⭐️ 2 📦 xcruxiex/BBDThemes
-⭐️ 1 📦 MirayXS/SplatNET
-⭐️ 0 📦 MirayXS/ACNH-SavefileViewer
-⭐️ 0 📦 MirayXS/ACNHSave
-⭐️ 0 📦 MirayXS/BetterUserBackgrounds
-⭐️ 0 📦 MirayXS/HybridJS
-⭐️ 0 📦 MirayXS/MirayAPI
-⭐️ 0 📦 MirayXS/MirayCDN
-⭐️ 0 📦 MirayXS/MirayDB
-⭐️ 0 📦 MirayXS/MirayStation
-⭐️ 0 📦 MirayXS/MirayXS
-⭐️ 0 📦 MirayXS/mirayxs.github.io
-⭐️ 0 📦 MirayXS/NHSE-VillagerDB
-⭐️ 0 📦 MirayXS/Presences
-⭐️ 0 📦 MirayXS/SplatDatabase
-⭐️ 0 📦 MirayXS/SplatHeX
-⭐️ 0 📦 MirayXS/spotify-readme
-⭐️ 0 📦 MirayXS/UnityNite
   
+  |*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 5 | [MirayXS/ACNH-IMAGEZIP](https://github.com/MirayXS/ACNH-IMAGEZIP) | Animal Crossing: New Horizons Images - IMAGEZIP |
+| 📦 | 2 | [MirayXS/ACNHCDN](https://github.com/MirayXS/ACNHCDN) | Animal Crossing: New Horizons CDN Images |
+| 📦 | 2 | [xcruxiex/BBDThemes](https://github.com/xcruxiex/BBDThemes) | My BBD Repo for Aesthetics and Fixes, of Various Themes. (And Somtimes Built or Discontinued Themes). |
+| 📦 | 1 | [MirayXS/SplatNET](https://github.com/MirayXS/SplatNET) | SplatNET is a Powerful Splatoon Discord Bot |
+| 📦 | 0 | [MirayXS/ACNH-SavefileViewer](https://github.com/MirayXS/ACNH-SavefileViewer) | Animal Crossing: New Horizons Save File Viewer |
+| 📦 | 0 | [MirayXS/ACNHSave](https://github.com/MirayXS/ACNHSave) | Animal Crossing: New Horizons Saves Archive |
+| 📦 | 0 | [MirayXS/BetterUserBackgrounds](https://github.com/MirayXS/BetterUserBackgrounds) | Custom Modal and Pop Up User Backgrounds! |
+| 📦 | 0 | [MirayXS/HybridJS](https://github.com/MirayXS/HybridJS) | Hybrid is a powerful VALORANT discord bot, containing data of all in-game items and more |
+| 📦 | 0 | [MirayXS/MirayAPI](https://github.com/MirayXS/MirayAPI) | [MEDIA "API"] + Credits |
+| 📦 | 0 | [MirayXS/MirayCDN](https://github.com/MirayXS/MirayCDN) | Miray Content Delivery Network |
+| 📦 | 0 | [MirayXS/MirayDB](https://github.com/MirayXS/MirayDB) | Miray Database |
+| 📦 | 0 | [MirayXS/MirayStation](https://github.com/MirayXS/MirayStation) | Images, Memes And Redirects |
+| 📦 | 0 | [MirayXS/MirayXS](https://github.com/MirayXS/MirayXS) | Public Profile Readme File |
+| 📦 | 0 | [MirayXS/mirayxs.github.io](https://github.com/MirayXS/mirayxs.github.io) | :octocat: Personal Website |
+| 📦 | 0 | [MirayXS/NHSE-VillagerDB](https://github.com/MirayXS/NHSE-VillagerDB) | NHSE Villager Database Files  |
+| 📦 | 0 | [MirayXS/Presences](https://github.com/MirayXS/Presences) | 🛒 Storage for Presences located at our Presence Store. |
+| 📦 | 0 | [MirayXS/SplatDatabase](https://github.com/MirayXS/SplatDatabase) | Splatoon JSON Data |
+| 📦 | 0 | [MirayXS/SplatHeX](https://github.com/MirayXS/SplatHeX) | Splatoon 2 Datamine |
+| 📦 | 0 | [MirayXS/spotify-readme](https://github.com/MirayXS/spotify-readme) | Dynamic realtime profile ReadMe linked with spotify |
+| 📦 | 0 | [MirayXS/UnityNite](https://github.com/MirayXS/UnityNite) | UnityNite is a powerful Fortnite discord bot, containing data of all cosmetics and more |
 
   </details>
   <hr>
@@ -197,6 +197,6 @@ Batchfile                1 repos             █░░░░░░░░░░�
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-17T22:34:37Z</b>
+  <b>2020-08-17T22:31:03Z</b>
 </p>
     
