@@ -62,7 +62,7 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 2. 💪 Opened PR [#1975](https://github.com//PreMiD/Presences/pull/1975) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
 3. ❗️ Opened issue [#1](https://github.com//SiLeNSwOrD/OwlHub/issues/1) in [SiLeNSwOrD/OwlHub](https://github.com//SiLeNSwOrD/OwlHub)
 4. 🗣 Commented on [#1](https://github.com//auguwu/auguwu/issues/1) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
-5. 🗣 Commented on [#1913](https://github.com//PreMiD/Presences/issues/1913) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+5. undefined
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
