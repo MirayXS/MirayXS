@@ -41,6 +41,13 @@
 ![WakaStats README](https://github.com/MirayXS/MirayXS/workflows/WakaStats%20README/badge.svg)
 ![Github Activity README](https://github.com/MirayXS/MirayXS/workflows/GitHub%20Activity%20README/badge.svg)
   <hr>
+  
+### 📫 How to reach me:
+
+- Discord: [@XxMirayxX21#3561](https://discord.com/users/325605285731500033)
+- Keybase: [@mirayxs](https://keybase.io/mirayxs)
+
+PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 
 <div align="left">
 
