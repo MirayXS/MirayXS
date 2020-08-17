@@ -45,7 +45,6 @@
 <details>
 <summary>GitHub Repositories</summary>
   ```text
-  <br>
  ⭐️ 5 📦 MirayXS/ACNH-IMAGEZIP
 ⭐️ 2 📦 MirayXS/ACNHCDN
 ⭐️ 2 📦 xcruxiex/BBDThemes
@@ -66,7 +65,6 @@
 ⭐️ 0 📦 MirayXS/SplatHeX
 ⭐️ 0 📦 MirayXS/spotify-readme
 ⭐️ 0 📦 MirayXS/UnityNite
- <br>
   ```
 
   </details>
@@ -198,6 +196,6 @@ Batchfile                1 repos             █░░░░░░░░░░�
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-17T22:42:19Z</b>
+  <b>2020-08-17T22:40:42Z</b>
 </p>
     
