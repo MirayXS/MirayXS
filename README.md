@@ -110,11 +110,11 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com//MirayXS/SplatNET/pull/8) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
-2. 🗣 Commented on [#7](https://github.com//MirayXS/SplatNET/issues/7) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
-3. 🗣 Commented on [#7](https://github.com//MirayXS/SplatNET/issues/7) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
-4. 🗣 Commented on [#7](https://github.com//MirayXS/SplatNET/issues/7) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
-5. 🗣 Commented on [#7](https://github.com//MirayXS/SplatNET/issues/7) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
+1. ❗️ Closed issue [#9](https://github.com//MirayXS/SplatNET/issues/9) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
+2. 🎉 Merged PR [#10](https://github.com//MirayXS/SplatNET/pull/10) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
+3. 🗣 Commented on [#9](https://github.com//MirayXS/SplatNET/issues/9) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
+4. ❗️ Opened issue [#9](https://github.com//MirayXS/SplatNET/issues/9) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
+5. 🎉 Merged PR [#8](https://github.com//MirayXS/SplatNET/pull/8) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
