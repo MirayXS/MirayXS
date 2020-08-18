@@ -42,6 +42,56 @@
 
 ![WakaStats README](https://github.com/MirayXS/MirayXS/workflows/WakaStats%20README/badge.svg)
 ![Github Activity README](https://github.com/MirayXS/MirayXS/workflows/GitHub%20Activity%20README/badge.svg)
+
+  <div align="left">
+
+<details>
+<summary>GitHub Repositories</summary>
+
++ Languages
+    +  JavaScript
+        + Animal Crossing: New Horizons
+            + [ACNH-SavefileViewer](https://github.com/MirayXS/ACNH-SavefileViewer)
+
+<hr>
+              
++ Libraries/Frameworks
+    +  Discord.js
+        + [SplatNET](https://github.com/MirayXS/SplatNET)
+        + [UnityNite](https://github.com/MirayXS/UnityNite)
+        + [HybridJS](https://github.com/MirayXS/HybridJS)
+           
+<hr>
+
++ Forks
+    + [SplatHeX](https://github.com/MirayXS/SplatHeX)
+    + [spotify-readme](https://github.com/MirayXS/spotify-readme)
+    + [ACNH-SavefileViewer](https://github.com/MirayXS/ACNH-SavefileViewer)
+
+<hr>
+
++ Resources
+    + Personal
+        + [MirayAPI](https://github.com/MirayXS/MirayAPI)
+        + [MirayDB](https://github.com/MirayXS/MirayDB)
+        + [MirayCDN](https://github.com/MirayXS/MirayCDN)
+        + [MirayXS](https://github.com/MirayXS/MirayXS)
+        + [mirayxs.github.io](https://github.com/MirayXS/mirayxs.github.io)
+    + Splatoon
+        + [SplatHeX](https://github.com/MirayXS/SplatHeX)
+        + [SplatDatabase](https://github.com/MirayXS/SplatDatabase)
+    + Animal Crossing: New Horizons
+        + [ACNHSave](https://github.com/MirayXS/ACNHSave)
+        + [ACNH-IMAGEZIP](https://github.com/MirayXS/ACNH-IMAGEZIP)
+        + [ACNHCDN](https://github.com/MirayXS/ACNHCDN)
+        + [NHSE-VillagerDB](https://github.com/MirayXS/NHSE-VillagerDB)
+    + Discord
+        + [BetterUserBackgrounds](https://github.com/MirayXS/BetterUserBackgrounds)
+        + [DiscordPrivacyPolicy](https://github.com/MirayXS/DiscordPrivacyPolicy)
+    
+
+</details>
+</div>
   <hr>
   
   <div align="left">
@@ -68,41 +118,41 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-125-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.4%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20Lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,407 Contributions in the year 2020
+> 🏆 1,442 Contributions in the year 2020
  > 
 > 📦 846.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public repositories
+> 📜 19 Public repositories
  > 
 > 🔑 0 Private repository 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
-🌆 Daytime    223 commits    ███████░░░░░░░░░░░░░░░░░░   27.7% 
-🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   31.8% 
-🌙 Night      270 commits    ████████░░░░░░░░░░░░░░░░░   33.54%
+🌞 Morning    56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
+🌆 Daytime    256 commits    ███████░░░░░░░░░░░░░░░░░░   30.4% 
+🌃 Evening    259 commits    ███████░░░░░░░░░░░░░░░░░░   30.76% 
+🌙 Night      271 commits    ████████░░░░░░░░░░░░░░░░░   32.19%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-Tuesday      187 commits    █████░░░░░░░░░░░░░░░░░░░░   23.23% 
-Wednesday    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-Thursday     117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
-Friday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.32% 
-Saturday     90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
-Sunday       112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
+Monday       114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
+Tuesday      208 commits    ██████░░░░░░░░░░░░░░░░░░░   24.7% 
+Wednesday    124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
+Thursday     118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+Friday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
+Saturday     90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
+Sunday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.42%
 
 ```
 
@@ -129,9 +179,10 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     6 repos             ███████████░░░░░░░░░░░░░░   46.15% 
-JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+HTML                     6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Batchfile                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
