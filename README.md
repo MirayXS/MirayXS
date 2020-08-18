@@ -110,11 +110,11 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. ❗️ Opened issue [#2](https://github.com//auguwu/auguwu/issues/2) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
 2. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#1975](https://github.com//PreMiD/Presences/issues/1975) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-4. 💪 Opened PR [#1975](https://github.com//PreMiD/Presences/pull/1975) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
-5. ❗️ Opened issue [#1](https://github.com//SiLeNSwOrD/OwlHub/issues/1) in [SiLeNSwOrD/OwlHub](https://github.com//SiLeNSwOrD/OwlHub)
+3. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#1975](https://github.com//PreMiD/Presences/issues/1975) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
+5. 💪 Opened PR [#1975](https://github.com//PreMiD/Presences/pull/1975) in [PreMiD/Presences](https://github.com//PreMiD/Presences)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
