@@ -2,6 +2,8 @@
 
 ### Hi there, I'm [Miray!](https://mirayxs.github.io) <a href="https://discord.gg/CkdjnCR"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
 
+[![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR)
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS" alt="MirayXS's github stats" />
   
