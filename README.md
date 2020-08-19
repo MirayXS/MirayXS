@@ -5,7 +5,7 @@
 [![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS" alt="MirayXS's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS&hide=lua" alt="MirayXS's github stats" />
   
   <hr>
 
@@ -88,6 +88,8 @@
     + Discord
         + [BetterUserBackgrounds](https://github.com/MirayXS/BetterUserBackgrounds)
         + [DiscordPrivacyPolicy](https://github.com/MirayXS/DiscordPrivacyPolicy)
+    + Roblox
+        + [RBLXHUB](https://github.com/MirayXS/RBLXHUB)
     
 
 </details>
