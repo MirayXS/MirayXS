@@ -103,6 +103,9 @@
   
 PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 
+[![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner4)](https://discord.gg/CkdjnCR)
+
+
 </div>
 
 <div align="left">
