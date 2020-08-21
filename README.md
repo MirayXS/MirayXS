@@ -123,54 +123,54 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,422 Contributions in the year 2020
+> 🏆 1,441 Contributions in the Year 2020
  > 
-> 📦 844.9 kB Used in Github's Storage 
+> 📦 845.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public repositories
+> 📜 19 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-🌆 Daytime    236 commits    ███████░░░░░░░░░░░░░░░░░░   28.75% 
-🌃 Evening    266 commits    ████████░░░░░░░░░░░░░░░░░   32.4% 
-🌙 Night      263 commits    ████████░░░░░░░░░░░░░░░░░   32.03%
+🌞 Morning    56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.68% 
+🌆 Daytime    235 commits    ███████░░░░░░░░░░░░░░░░░░   28.04% 
+🌃 Evening    268 commits    ████████░░░░░░░░░░░░░░░░░   31.98% 
+🌙 Night      279 commits    ████████░░░░░░░░░░░░░░░░░   33.29%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Tuesday      190 commits    █████░░░░░░░░░░░░░░░░░░░░   23.14% 
-Wednesday    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
-Thursday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Friday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Saturday     92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-Sunday       112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+Monday       114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+Tuesday      190 commits    █████░░░░░░░░░░░░░░░░░░░░   22.67% 
+Wednesday    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+Thursday     133 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Friday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
+Saturday     92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+Sunday       112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.37%
 
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/Rome
+⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Code Editors: 
+🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
