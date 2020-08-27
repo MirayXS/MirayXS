@@ -115,11 +115,11 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#2](https://github.com//auguwu/auguwu/issues/2) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
-3. ❗️ Closed issue [#9](https://github.com//MirayXS/SplatNET/issues/9) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
-4. 🎉 Merged PR [#10](https://github.com//MirayXS/SplatNET/pull/10) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
-5. 🗣 Commented on [#9](https://github.com//MirayXS/SplatNET/issues/9) in [MirayXS/SplatNET](https://github.com//MirayXS/SplatNET)
+1. 🗣 Commented on [#12](https://github.com//Flam3rboy/discord-bot-client/issues/12) in [Flam3rboy/discord-bot-client](https://github.com//Flam3rboy/discord-bot-client)
+2. 🗣 Commented on [#12](https://github.com//Flam3rboy/discord-bot-client/issues/12) in [Flam3rboy/discord-bot-client](https://github.com//Flam3rboy/discord-bot-client)
+3. ❗️ Opened issue [#87](https://github.com//Flam3rboy/discord-bot-client/issues/87) in [Flam3rboy/discord-bot-client](https://github.com//Flam3rboy/discord-bot-client)
+4. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#2](https://github.com//auguwu/auguwu/issues/2) in [auguwu/auguwu](https://github.com//auguwu/auguwu)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
