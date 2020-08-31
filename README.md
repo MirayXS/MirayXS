@@ -123,15 +123,15 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 1,468 Contributions in the Year 2020
  > 
-> 📦 851.4 kB Used in Github's Storage 
+> 📦 851.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
