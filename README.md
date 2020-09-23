@@ -43,6 +43,8 @@
 ![WakaStats README](https://github.com/MirayXS/MirayXS/workflows/WakaStats%20README/badge.svg)
 ![Github Activity README](https://github.com/MirayXS/MirayXS/workflows/GitHub%20Activity%20README/badge.svg)
 
+<img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=7&theme=onedark">
+
   <div align="left">
 
 <details>
