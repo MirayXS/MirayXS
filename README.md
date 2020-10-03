@@ -125,7 +125,7 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 2. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
 3. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
 4. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
-5. ❗️ Opened issue [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
+5. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
