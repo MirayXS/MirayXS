@@ -123,9 +123,9 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
 2. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
-3. ❗️ Opened issue [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
-4. 🎉 Merged PR [#11](https://github.com/MirayXS/SplatNET/pull/11) in [MirayXS/SplatNET](https://github.com/MirayXS/SplatNET)
-5. ❗️ Opened issue [#87](https://github.com//Flam3rboy/discord-bot-client/issues/87) in [Flam3rboy/discord-bot-client](https://github.com//Flam3rboy/discord-bot-client)
+3. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
+4. ❗️ Opened issue [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
+5. 🎉 Merged PR [#11](https://github.com/MirayXS/SplatNET/pull/11) in [MirayXS/SplatNET](https://github.com/MirayXS/SplatNET)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
