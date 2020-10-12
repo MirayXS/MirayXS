@@ -137,7 +137,7 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 
 > 🏆 1,544 Contributions in the Year 2020
  > 
-> 📦 852.8 kB Used in Github's Storage 
+> 📦 852.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
