@@ -129,9 +129,9 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -193,7 +193,7 @@ No Activity Tracked This Week
 JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
 HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
 CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Lua                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
