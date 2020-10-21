@@ -138,7 +138,7 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 
 **🐱 My Github Data** 
 
-> 🏆 1,544 Contributions in the Year 2020
+> 🏆 1,546 Contributions in the Year 2020
  > 
 > 📦 852.8 kB Used in Github's Storage 
  > 
@@ -153,8 +153,8 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 ```text
 🌞 Morning    56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
 🌆 Daytime    268 commits    ███████░░░░░░░░░░░░░░░░░░   28.72% 
-🌃 Evening    305 commits    ████████░░░░░░░░░░░░░░░░░   32.69% 
-🌙 Night      304 commits    ████████░░░░░░░░░░░░░░░░░   32.58%
+🌃 Evening    306 commits    ████████░░░░░░░░░░░░░░░░░   32.8% 
+🌙 Night      303 commits    ████████░░░░░░░░░░░░░░░░░   32.48%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
