@@ -21,7 +21,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 
 <code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
-<code><img height="20" src="https://resources.jetbrains.com/storage/products/pycharm-edu/img/meta/pycharm-edu_logo_300x300.png"></code>
 <code><img height="20" src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
 <code><img height="20" src="https://www.google.com/chrome/static/images/chrome-logo.svg"></code>
