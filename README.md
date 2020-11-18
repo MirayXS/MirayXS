@@ -8,6 +8,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS&hide=lua" alt="MirayXS's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MirayXS" />
 
+<hr>
+
 <img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
 <br>
 <img align="center" src="https://discord.c99.nl/widget/theme-1/772156814393212928.png" />
