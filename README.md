@@ -8,6 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS&hide=lua" alt="MirayXS's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MirayXS" />
 
+<img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
+<br>
+<img align="center" src="https://discord.c99.nl/widget/theme-1/772156814393212928.png" />
   
   <hr>
 
@@ -38,11 +41,19 @@
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
+## MAIN DISCORD ACCOUNT
 ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
 ![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch&color=8A96E9)
 
 ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033)
 ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
+
+## ALTERNATIVE DISCORD ACCOUNT
+![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/772156814393212928?simple=true&logo=discord&logoColor=white&color=43B581)
+![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/772156814393212928?vscode=false&logo=nintendo-switch&color=8A96E9)
+
+![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/772156814393212928)
+![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/772156814393212928&color=1ED45F)
 
 [<img src="https://spotify-readme-one.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ngq5ynashr9vc96namk4h906u>)
 
@@ -112,7 +123,8 @@
 
 ### 📫 How to reach me:
 
-- Discord: [@XxMirayxX21#3561](https://discord.com/users/325605285731500033)
+- Main Discord: [@XxMirayxX21#3561](https://discord.com/users/325605285731500033)
+- Alternative Discord: [@0xK3ITH#8833](https://discord.com/users/772156814393212928)
 - Keybase: [@mirayxs](https://keybase.io/mirayxs)
   
 PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
