@@ -40,6 +40,10 @@
 <code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/en.png"></code>
 <code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/fr.png"></code>
 
+```
+currently studying french.
+```
+
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
 ## MAIN DISCORD ACCOUNT
