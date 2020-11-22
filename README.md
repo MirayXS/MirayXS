@@ -154,11 +154,11 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,554 Contributions in the Year 2020
+> 🏆 1,555 Contributions in the Year 2020
  > 
 > 📦 852.8 kB Used in Github's Storage 
  > 
@@ -184,9 +184,9 @@ Monday       118 commits    ███░░░░░░░░░░░░░░�
 Tuesday      203 commits    █████░░░░░░░░░░░░░░░░░░░░   21.71% 
 Wednesday    135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
 Thursday     148 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-Friday       101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
+Friday       100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
 Saturday     111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
-Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+Sunday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.83%
 
 ```
 
