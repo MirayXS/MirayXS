@@ -144,8 +144,8 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/SiLeNSwOrD/OwlHub/issues/4) in [SiLeNSwOrD/OwlHub](https://github.com/SiLeNSwOrD/OwlHub)
-2. ❗️ Closed issue [#238](https://github.com/anuraghazra/github-readme-stats/issues/238) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#52](https://github.com/CMD-X/CMD-X/issues/52) in [CMD-X/CMD-X](https://github.com/CMD-X/CMD-X)
+2. 🗣 Commented on [#4](https://github.com/SiLeNSwOrD/OwlHub/issues/4) in [SiLeNSwOrD/OwlHub](https://github.com/SiLeNSwOrD/OwlHub)
 3. 🗣 Commented on [#238](https://github.com/anuraghazra/github-readme-stats/issues/238) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 4. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
 5. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
