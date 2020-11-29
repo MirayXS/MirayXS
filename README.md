@@ -28,11 +28,14 @@
 <code><img height="20" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png"></code>
 
-<code><img height="20" src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
 <code><img height="20" src="https://www.google.com/chrome/static/images/chrome-logo.svg"></code>
-<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/github.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png"></code>
 <code><img height="20" src="https://cdn.discordapp.com/emojis/735928635181105262.png?v=1"></code>
 
@@ -136,7 +139,10 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 
 [![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner4)](https://discord.gg/CkdjnCR)
 
+### 👨‍💻 All of my projects are available at:
 
+- Personal Website: [mirayxs.github.io](https://mirayxs.github.io)
+- GitHub: [github.com/**MirayXS**](https://github.com/MirayXS)
 </div>
 
 <div align="left">
