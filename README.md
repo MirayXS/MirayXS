@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm [Miray!](https://mirayxs.github.io) <a href="https://discord.gg/CkdjnCR"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
+### Hi there, I'm [Miray!](https://mirayxs.github.io) <a href="https://discord.gg/CkdjnCR"><br><img src="https://media.discordapp.net/attachments/719047944216510464/719049004146753566/0_4b_EV8WOrV7K9k1r-2-1-4.gif"><br><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
 
 [![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR)
 
