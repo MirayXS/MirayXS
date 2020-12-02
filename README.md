@@ -158,13 +158,15 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 📦 852.8 kB Used in Github's Storage 
+> 🏆 1,560 Contributions in the Year 2020
+ > 
+> 📦 852.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -177,20 +179,20 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 ```text
 🌞 Morning    56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
 🌆 Daytime    271 commits    ███████░░░░░░░░░░░░░░░░░░   28.98% 
-🌃 Evening    309 commits    ████████░░░░░░░░░░░░░░░░░   33.05% 
-🌙 Night      299 commits    ████████░░░░░░░░░░░░░░░░░   31.98%
+🌃 Evening    311 commits    ████████░░░░░░░░░░░░░░░░░   33.26% 
+🌙 Night      297 commits    ████████░░░░░░░░░░░░░░░░░   31.76%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-Tuesday      203 commits    █████░░░░░░░░░░░░░░░░░░░░   21.71% 
+Monday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Tuesday      207 commits    █████░░░░░░░░░░░░░░░░░░░░   22.14% 
 Wednesday    135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
 Thursday     148 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
 Friday       100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
 Saturday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Sunday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94%
+Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
 
 ```
 
