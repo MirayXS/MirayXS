@@ -163,11 +163,11 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MirayXS/RoUpdates/pull/1) in [MirayXS/RoUpdates](https://github.com/MirayXS/RoUpdates)
-2. 💪 Opened PR [#1](https://github.com/MirayXS/RoUpdates/pull/1) in [MirayXS/RoUpdates](https://github.com/MirayXS/RoUpdates)
-3. 🗣 Commented on [#52](https://github.com/CMD-X/CMD-X/issues/52) in [CMD-X/CMD-X](https://github.com/CMD-X/CMD-X)
-4. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
-5. 🗣 Commented on [#10](https://github.com/Koupah/Among-Us-Editor/issues/10) in [Koupah/Among-Us-Editor](https://github.com/Koupah/Among-Us-Editor)
+1. 🎉 Merged PR [#3](https://github.com/MirayXS/RoUpdates/pull/3) in [MirayXS/RoUpdates](https://github.com/MirayXS/RoUpdates)
+2. 🗣 Commented on [#2](https://github.com/MirayXS/RoUpdates/issues/2) in [MirayXS/RoUpdates](https://github.com/MirayXS/RoUpdates)
+3. 🗣 Commented on [#2](https://github.com/MirayXS/RoUpdates/issues/2) in [MirayXS/RoUpdates](https://github.com/MirayXS/RoUpdates)
+4. 🗣 Commented on [#2](https://github.com/MirayXS/RoUpdates/issues/2) in [MirayXS/RoUpdates](https://github.com/MirayXS/RoUpdates)
+5. 🗣 Commented on [#2](https://github.com/MirayXS/RoUpdates/issues/2) in [MirayXS/RoUpdates](https://github.com/MirayXS/RoUpdates)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
