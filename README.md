@@ -38,6 +38,8 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png"></code>
 <code><img height="20" src="https://cdn.discordapp.com/emojis/735928635181105262.png?v=1"></code>
+<code><img height="20" src="https://cdn.discordapp.com/icons/336642139381301249/3aa641b21acded468308a37eef43d7b3.png?size=2048"></code>
+
 
 <code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/it.png"></code>
 <code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/en.png"></code>
@@ -89,7 +91,8 @@ currently studying french.
         + [SplatNET](https://github.com/MirayXS/SplatNET)
         + [UnityNite](https://github.com/MirayXS/UnityNite)
         + [HybridJS](https://github.com/MirayXS/HybridJS)
-           
+    +  Discord.py
+        + [RoUpdates](https://github.com/MirayXS/RoUpdates)
 <hr>
 
 + Forks
