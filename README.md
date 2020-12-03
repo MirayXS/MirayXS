@@ -254,5 +254,9 @@ Lua                      1 repo              █░░░░░░░░░░�
 <a href="https://github.com/MirayXS/HybridJS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=HybridJS" />
 </a>
+  <hr>
+<a href="https://github.com/MirayXS/RoUpdates">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=RoUpdates" />
+</a>
     </div>
     </div>
