@@ -146,6 +146,16 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 
 - Personal Website: [mirayxs.github.io](https://mirayxs.github.io)
 - GitHub: [github.com/**MirayXS**](https://github.com/MirayXS)
+
+### 🌱 I’m currently learning:
+
+- Python
+- Discord.py
+
+### 🔭 I’m currently working on
+
+- [RoUpdates](https://github.com/MirayXS/RoUpdates) - Open-Source Discord Roblox Client Tracker Bot
+> 
 </div>
 
 <div align="left">
