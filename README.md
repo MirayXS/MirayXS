@@ -149,9 +149,12 @@ PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
 
 ### 🌱 I’m currently learning:
 
+Programming Languages:
 - Python
-- Discord.py
 - TypeScript
+
+Frameworks:
+- Discord.py
 
 ### 🔭 I’m currently working on
 
