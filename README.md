@@ -122,9 +122,7 @@ currently studying french.
         + [DiscordPrivacyPolicy](https://github.com/MirayXS/DiscordPrivacyPolicy)
     + Roblox
         + [RBLXHUB](https://github.com/MirayXS/RBLXHUB)
-        + [UILibrary](https://github.com/MirayXS/UILibrary)
-        + [downloadKRNL](https://github.com/MirayXS/downloadKRNL)
-    
+        + [UILibrary](https://github.com/MirayXS/UILibrary)    
 
 </details>
 </div>
