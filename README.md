@@ -181,15 +181,15 @@ Frameworks:
 
 **🐱 My Github Data** 
 
-> 🏆 1,610 Contributions in the Year 2020
+> 🏆 1,611 Contributions in the Year 2020
  > 
-> 📦 852.5 kB Used in Github's Storage 
+> 📦 852.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
-21 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
