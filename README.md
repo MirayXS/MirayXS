@@ -65,9 +65,9 @@ currently studying french.
 ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/772156814393212928)
 ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/772156814393212928&color=1ED45F)
 
-[<img src="https://spotify-readme-one.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ngq5ynashr9vc96namk4h906u>)
+<!-- [<img src="https://spotify-readme-one.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ngq5ynashr9vc96namk4h906u>) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ngq5ynashr9vc96namk4h906u&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ngq5ynashr9vc96namk4h906u&cover_image=true)](https://github.com/kittinan/spotify-github-profile) -->
 
 ![WakaStats README](https://github.com/MirayXS/MirayXS/workflows/WakaStats%20README/badge.svg)
 ![Github Activity README](https://github.com/MirayXS/MirayXS/workflows/GitHub%20Activity%20README/badge.svg)
