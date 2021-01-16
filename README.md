@@ -167,11 +167,11 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
-2. ❗️ Closed issue [#1](https://github.com/bloodball/UI-Librarys/issues/1) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
-3. 🗣 Commented on [#1](https://github.com/bloodball/UI-Librarys/issues/1) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
-4. ❗️ Opened issue [#1](https://github.com/bloodball/UI-Librarys/issues/1) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
-5. 🎉 Merged PR [#3](https://github.com/MirayXS/RoUpdates/pull/3) in [MirayXS/RoUpdates](https://github.com/MirayXS/RoUpdates)
+1. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
+2. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
+3. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
+4. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
+5. ❗️ Opened issue [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
