@@ -171,7 +171,7 @@ Frameworks:
 2. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
 3. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
 4. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
-5. ❗️ Opened issue [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
+5. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
