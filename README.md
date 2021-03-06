@@ -175,13 +175,13 @@ Frameworks:
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 11 Contributions in the Year 2021
  > 
 > 📦 852.4 kB Used in Github's Storage 
  > 
@@ -189,7 +189,7 @@ Frameworks:
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -236,11 +236,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Lua                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
