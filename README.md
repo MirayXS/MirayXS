@@ -167,8 +167,8 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/bloodball/UI-Librarys/issues/6) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
-2. 🎉 Merged PR [#1](https://github.com/MirayXS/DarkHub/pull/1) in [MirayXS/DarkHub](https://github.com/MirayXS/DarkHub)
+1. 💪 Opened PR [#2](https://github.com/RbxSolutions/IP-Protection/pull/2) in [RbxSolutions/IP-Protection](https://github.com/RbxSolutions/IP-Protection)
+2. ❗️ Opened issue [#6](https://github.com/bloodball/UI-Librarys/issues/6) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
 3. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
 4. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
 5. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
