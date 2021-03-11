@@ -175,19 +175,19 @@ Frameworks:
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 11 Contributions in the Year 2021
+> 🏆 14 Contributions in the Year 2021
  > 
 > 📦 852.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
