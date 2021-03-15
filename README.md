@@ -167,11 +167,11 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
-2. 🗣 Commented on [#9](https://github.com/1ForeverHD/TopbarPlus/issues/9) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
-3. 🗣 Commented on [#9](https://github.com/1ForeverHD/TopbarPlus/issues/9) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
-4. 🗣 Commented on [#9](https://github.com/1ForeverHD/TopbarPlus/issues/9) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
-5. ❗️ Opened issue [#2](https://github.com/MonkoTubeYT/animationedit/issues/2) in [MonkoTubeYT/animationedit](https://github.com/MonkoTubeYT/animationedit)
+1. 🗣 Commented on [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
+2. 🗣 Commented on [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
+3. 🗣 Commented on [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
+4. ❗️ Opened issue [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
+5. 🗣 Commented on [#9](https://github.com/1ForeverHD/TopbarPlus/issues/9) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
