@@ -278,7 +278,7 @@ Python                   1 repo              █░░░░░░░░░░�
   </a>
   </div>
 <div align="right">
-<a href="https://discord.com/invite/XrHqjy6tBc">
+<a href="https://discord.gg/shlex">
   <img src="https://images-ext-2.discordapp.net/external/DRupYzanb58neT4igrui12CMYe6RpCBFBBW1eLewS-Y/%3Fsize%3D4096/https/cdn.discordapp.com/banners/796046790074826813/d94bc5ebb10ef41aeda4dcd8114b2ac7.jpg" />
   </a>
   </div>
