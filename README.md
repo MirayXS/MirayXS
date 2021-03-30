@@ -183,9 +183,9 @@ Frameworks:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 25 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
