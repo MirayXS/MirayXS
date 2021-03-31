@@ -51,7 +51,8 @@
 <hr>
 
 <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/d/3/a/d3aa9f22cdd3d55ec9e752e695ea63b197a05d0f.png">
-DevForum | Roblox : https://devforum.roblox.com/u/mirayyh/summary
+
+### https://devforum.roblox.com/u/mirayyh/summary
 
 <hr>
 
