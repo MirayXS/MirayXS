@@ -11,7 +11,7 @@
 <hr>
 
 <img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
-<img align="center" src="https://discord.c99.nl/widget/theme-1/772156814393212928.png" />
+<!--<img align="center" src="https://discord.c99.nl/widget/theme-1/772156814393212928.png" />-->
   
   <hr>
 
@@ -63,12 +63,12 @@
 ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033)
 ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
 
-## ALTERNATIVE DISCORD ACCOUNT
+<!-- ## ALTERNATIVE DISCORD ACCOUNT
 ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/772156814393212928?simple=true&logo=discord&logoColor=white&color=43B581)
-![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/772156814393212928?vscode=false&logo=nintendo-switch&color=8A96E9)
+![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/772156814393212928?vscode=false&logo=nintendo-switch&color=8A96E9) -->
 
-![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/772156814393212928)
-![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/772156814393212928&color=1ED45F)
+<!-- ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/772156814393212928)
+![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/772156814393212928&color=1ED45F) -->
 
 <!-- [<img src="https://spotify-readme-one.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ngq5ynashr9vc96namk4h906u>) -->
 
@@ -138,7 +138,6 @@
 ### 📫 How to reach me:
 
 - Main Discord: [@XxMirayxX21#3561](https://discord.com/users/325605285731500033)
-- Alternative Discord: [@0xK3ITH#8833](https://discord.com/users/772156814393212928)
 - Keybase: [@mirayxs](https://keybase.io/mirayxs)
   
 PGP Public Key: [`14FE F6CD 6B7A F262`](https://keybase.io/mirayxs/pgp_keys.asc)
@@ -163,8 +162,48 @@ Frameworks:
 
 ### 🔭 I’m currently working on
 
+- [SplatNET](https://github.com/MirayXS/SplatNET) - Powerful Splatoon Discord Bot
 - [RoUpdates](https://github.com/MirayXS/RoUpdates) - Open-Source Discord Roblox Client Tracker Bot
+- ROBLOX Projects
 > 
+
+### 💬 Ask me about
+
+- Discord Bots
+- Mirayyh - Discord Bot ( **`MY FIRST DISCORD BOT`** )
+- SplatNET
+- My Projects
+- My Future Projects
+- RoUpdates
+- All My Projects
+- ROBLOX
+- ROBLOX Projects
+- My ROBLOX Account
+> 
+
+### ⚡ Fun facts
+
+- I'm LAZY
+- I sleep all day
+- I'm online most of the time
+- I'm a bit annoying as a friend
+- I once got false banned for 7 days on ROBLOX
+
+### 😄 Pronouns
+
+- He / Him
+
+### 🤔 I’m looking for help with
+
+- Learning ROBLOX Scripting
+- ROBLOX Scripting
+- ROBLOX Stuff
+
+## 👯 I’m looking to collaborate on
+
+- Shlex Softworks 
+- Domain Hub V2
+- Scripted Community
 </div>
 
 <div align="left">
