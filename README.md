@@ -173,8 +173,8 @@ Frameworks:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
-2. 🗣 Commented on [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
-3. 🗣 Commented on [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
+2. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
+3. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
 4. 🗣 Commented on [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
 5. 🗣 Commented on [#11](https://github.com/1ForeverHD/TopbarPlus/issues/11) in [1ForeverHD/TopbarPlus](https://github.com/1ForeverHD/TopbarPlus)
 <!--END_SECTION:activity-->
