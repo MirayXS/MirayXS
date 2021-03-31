@@ -48,8 +48,12 @@
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
+<hr>
+
 <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/d/3/a/d3aa9f22cdd3d55ec9e752e695ea63b197a05d0f.png">
 DevForum | Roblox : https://devforum.roblox.com/u/mirayyh/summary
+
+<hr>
 
 ## MAIN DISCORD ACCOUNT
 ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
