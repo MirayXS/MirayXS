@@ -23,10 +23,11 @@
 <code><img height="20" src="https://cdn.discordapp.com/emojis/403294924432211968.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png"></code>
 
 <code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
 <code><img height="20" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
-<code><img height="20" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png"></code>
+
 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
@@ -46,6 +47,9 @@
 <code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/fr.png"></code>
 
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
+
+<img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/d/3/a/d3aa9f22cdd3d55ec9e752e695ea63b197a05d0f.png">
+DevForum | Roblox : https://devforum.roblox.com/u/mirayyh/summary
 
 ## MAIN DISCORD ACCOUNT
 ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
