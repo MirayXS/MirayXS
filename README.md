@@ -77,7 +77,9 @@
 ![WakaStats README](https://github.com/MirayXS/MirayXS/workflows/WakaStats%20README/badge.svg)
 ![Github Activity README](https://github.com/MirayXS/MirayXS/workflows/GitHub%20Activity%20README/badge.svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=6&theme=onedark">
+<img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=6&theme=onedark"> 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MirayXS)  
 
   <div align="left">
 
