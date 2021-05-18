@@ -233,8 +233,8 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
-2. ❗️ Closed issue [#6](https://github.com/bloodball/UI-Librarys/issues/6) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
+1. 🗣 Commented on [#1](https://github.com/SynHaru/Selexity/issues/1) in [SynHaru/Selexity](https://github.com/SynHaru/Selexity)
+2. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
 3. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
 4. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
 5. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
