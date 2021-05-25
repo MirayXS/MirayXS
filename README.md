@@ -249,7 +249,7 @@ Frameworks:
 
 > 🏆 72 Contributions in the Year 2021
  > 
-> 📦 852.7 kB Used in Github's Storage 
+> 📦 855.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
