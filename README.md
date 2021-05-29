@@ -247,13 +247,13 @@ Frameworks:
 
 **🐱 My Github Data** 
 
-> 🏆 75 Contributions in the Year 2021
+> 🏆 82 Contributions in the Year 2021
  > 
 > 📦 855.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
