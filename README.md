@@ -247,13 +247,13 @@ Frameworks:
 
 **🐱 My Github Data** 
 
-> 🏆 94 Contributions in the Year 2021
+> 🏆 95 Contributions in the Year 2021
  > 
 > 📦 874.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 58 Public Repositories 
+> 📜 59 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -316,6 +316,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MirayXS/MirayXS/master/charts/bar_graph.png) 
 
 
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
 
 
