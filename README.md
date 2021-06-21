@@ -88,7 +88,7 @@
 ![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/772156814393212928?vscode=false&logo=nintendo-switch&color=8A96E9) -->
 
 <!-- ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/772156814393212928)
-![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/772156814393212928&color=1ED45F) -->
+![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/772156814393212928&color=1ED45F)-->
 
 <!-- [<img src="https://spotify-readme-one.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ngq5ynashr9vc96namk4h906u>) -->
 
@@ -98,6 +98,8 @@
 ![Github Activity README](https://github.com/MirayXS/MirayXS/workflows/GitHub%20Activity%20README/badge.svg)
 
 <img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=6&theme=onedark"> 
+	
+<img src="https://activity-graph.herokuapp.com/graph?username=MirayXS&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3">
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MirayXS)  
 
