@@ -235,9 +235,9 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/MirayXS/SplatNET/issues/12) in [MirayXS/SplatNET](https://github.com/MirayXS/SplatNET)
-2. 🗣 Commented on [#2](https://github.com/bloodball/UI-Librarys/issues/2) in [bloodball/UI-Librarys](https://github.com/bloodball/UI-Librarys)
-3. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
+1. ❗️ Closed issue [#7](https://github.com/cnrad/lanyard-profile-readme/issues/7) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+2. ❗️ Opened issue [#7](https://github.com/cnrad/lanyard-profile-readme/issues/7) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+3. 🗣 Commented on [#12](https://github.com/MirayXS/SplatNET/issues/12) in [MirayXS/SplatNET](https://github.com/MirayXS/SplatNET)
 4. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
 5. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
 <!--END_SECTION:activity-->
