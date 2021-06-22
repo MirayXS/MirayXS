@@ -245,28 +245,28 @@ Frameworks:
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 108 Contributions in the Year 2021
+> 🏆 109 Contributions in the Year 2021
  > 
 > 📦 876.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 67 Public Repositories 
+> 📜 68 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
+🌞 Morning    71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
 🌆 Daytime    176 commits    ██████░░░░░░░░░░░░░░░░░░░   24.62% 
-🌃 Evening    247 commits    ████████░░░░░░░░░░░░░░░░░   34.55% 
+🌃 Evening    246 commits    ████████░░░░░░░░░░░░░░░░░   34.41% 
 🌙 Night      222 commits    ███████░░░░░░░░░░░░░░░░░░   31.05%
 
 ```
@@ -320,7 +320,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MirayXS/MirayXS/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2021
+ Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
 
 
