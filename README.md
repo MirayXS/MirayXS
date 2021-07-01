@@ -237,10 +237,10 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#186](https://github.com/Pizzabelly/EasyRP/issues/186) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
-2. ❗️ Closed issue [#7](https://github.com/cnrad/lanyard-profile-readme/issues/7) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-3. ❗️ Opened issue [#7](https://github.com/cnrad/lanyard-profile-readme/issues/7) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-4. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
+1. 🎉 Merged PR [#13](https://github.com/MirayXS/SplatNET/pull/13) in [MirayXS/SplatNET](https://github.com/MirayXS/SplatNET)
+2. ❗️ Opened issue [#186](https://github.com/Pizzabelly/EasyRP/issues/186) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
+3. ❗️ Closed issue [#7](https://github.com/cnrad/lanyard-profile-readme/issues/7) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+4. ❗️ Opened issue [#7](https://github.com/cnrad/lanyard-profile-readme/issues/7) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
 5. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
 <!--END_SECTION:activity-->
   
