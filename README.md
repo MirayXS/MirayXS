@@ -253,7 +253,7 @@ Frameworks:
 
 > 🏆 112 Contributions in the Year 2021
  > 
-> 📦 876.1 kB Used in Github's Storage 
+> 📦 876.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -290,16 +290,16 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               15 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MM2_Wiki                 15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.0%
 
 ```
 
@@ -320,7 +320,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MirayXS/MirayXS/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2021
+ Last Updated on 01/07/2021
 <!--END_SECTION:waka-->
 
 
