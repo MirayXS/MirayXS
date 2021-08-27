@@ -237,9 +237,9 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MirayXS/IP-Protection/pull/1) in [MirayXS/IP-Protection](https://github.com/MirayXS/IP-Protection)
-2. 🎉 Merged PR [#13](https://github.com/MirayXS/SplatNET/pull/13) in [MirayXS/SplatNET](https://github.com/MirayXS/SplatNET)
-3. ❗️ Opened issue [#186](https://github.com/Pizzabelly/EasyRP/issues/186) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
+1. 🗣 Commented on [#1](https://github.com/MirayXS/MirayXS/issues/1) in [MirayXS/MirayXS](https://github.com/MirayXS/MirayXS)
+2. ❗️ Closed issue [#1](https://github.com/MirayXS/MirayXS/issues/1) in [MirayXS/MirayXS](https://github.com/MirayXS/MirayXS)
+3. ❗️ Opened issue [#1](https://github.com/MirayXS/MirayXS/issues/1) in [MirayXS/MirayXS](https://github.com/MirayXS/MirayXS)
 4. ❗️ Opened issue [#7](https://github.com/cnrad/lanyard-profile-readme/issues/7) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
 5. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
 <!--END_SECTION:activity-->
