@@ -245,19 +245,19 @@ Frameworks:
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 166 Contributions in the Year 2021
+> 🏆 168 Contributions in the Year 2021
  > 
 > 📦 876.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 116 Public Repositories 
+> 📜 118 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -320,7 +320,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MirayXS/MirayXS/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2021
+ Last Updated on 01/09/2021
 <!--END_SECTION:waka-->
 
 
