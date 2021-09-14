@@ -245,7 +245,7 @@ Frameworks:
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -257,7 +257,7 @@ Frameworks:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 135 Public Repositories 
+> 📜 138 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -320,7 +320,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MirayXS/MirayXS/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2021
+ Last Updated on 14/09/2021
 <!--END_SECTION:waka-->
 
 
