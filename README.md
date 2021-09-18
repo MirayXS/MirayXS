@@ -257,7 +257,7 @@ Frameworks:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 143 Public Repositories 
+> 📜 146 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -320,7 +320,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MirayXS/MirayXS/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2021
+ Last Updated on 18/09/2021
 <!--END_SECTION:waka-->
 
 
