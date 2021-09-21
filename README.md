@@ -237,11 +237,11 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MirayXS/MirayXS/issues/1) in [MirayXS/MirayXS](https://github.com/MirayXS/MirayXS)
-2. ❗️ Closed issue [#1](https://github.com/MirayXS/MirayXS/issues/1) in [MirayXS/MirayXS](https://github.com/MirayXS/MirayXS)
-3. ❗️ Opened issue [#1](https://github.com/MirayXS/MirayXS/issues/1) in [MirayXS/MirayXS](https://github.com/MirayXS/MirayXS)
-4. ❗️ Opened issue [#7](https://github.com/cnrad/lanyard-profile-readme/issues/7) in [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-5. 🗣 Commented on [#1](https://github.com/syngp/SynapseX/issues/1) in [syngp/SynapseX](https://github.com/syngp/SynapseX)
+1. 🗣 Commented on [#192](https://github.com/Pizzabelly/EasyRP/issues/192) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
+2. 🗣 Commented on [#192](https://github.com/Pizzabelly/EasyRP/issues/192) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
+3. 🗣 Commented on [#192](https://github.com/Pizzabelly/EasyRP/issues/192) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
+4. 🗣 Commented on [#192](https://github.com/Pizzabelly/EasyRP/issues/192) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
+5. 🗣 Commented on [#186](https://github.com/Pizzabelly/EasyRP/issues/186) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
 <!--END_SECTION:activity-->
   
 <!--START_SECTION:waka-->
