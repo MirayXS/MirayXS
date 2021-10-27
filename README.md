@@ -257,7 +257,7 @@ Frameworks:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 182 Public Repositories 
+> 📜 183 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -320,7 +320,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MirayXS/MirayXS/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2021
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
 
 
