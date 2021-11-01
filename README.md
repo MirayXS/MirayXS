@@ -251,7 +251,7 @@ Frameworks:
 
 **🐱 My GitHub Data** 
 
-> 🏆 172 Contributions in the Year 2021
+> 🏆 173 Contributions in the Year 2021
  > 
 > 📦 876.5 kB Used in GitHub's Storage 
  > 
@@ -320,7 +320,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MirayXS/MirayXS/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2021
+ Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
 
 
