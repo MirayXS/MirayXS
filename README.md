@@ -237,7 +237,7 @@ Frameworks:
 ### <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/coffee.svg"> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#95](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/issues/95) in [MaximumADHD/Roblox-Studio-Mod-Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)
+1. ❗️ Opened issue [#2](https://github.com/MirayXS/SplatHeX/issues/2) in [MirayXS/SplatHeX](https://github.com/MirayXS/SplatHeX)
 2. 🗣 Commented on [#186](https://github.com/Pizzabelly/EasyRP/issues/186) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
 3. 🗣 Commented on [#192](https://github.com/Pizzabelly/EasyRP/issues/192) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
 4. 🗣 Commented on [#192](https://github.com/Pizzabelly/EasyRP/issues/192) in [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP)
