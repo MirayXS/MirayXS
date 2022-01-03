@@ -29,7 +29,7 @@ class Stark {
 
 module.exports = Stark
 ```
-
+<!--
 <hr>
 
 ![Metrics](https://github.com/MirayXS/MirayXS/blob/master/github-metrics.svg)
@@ -39,3 +39,4 @@ module.exports = Stark
 <hr>
 
 <img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
+-->
