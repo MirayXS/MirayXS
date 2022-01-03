@@ -33,6 +33,11 @@ module.exports = Stark
 
 ![Metrics](https://github.com/MirayXS/MirayXS/blob/master/github-metrics.svg)
 
+<hr>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Ivan's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB&hide=lua&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!--
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
