@@ -29,14 +29,16 @@ class Stark {
 
 module.exports = Stark
 ```
-<!--
 <hr>
 
 ![Metrics](https://github.com/MirayXS/MirayXS/blob/master/github-metrics.svg)
+
+<!--
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
 <img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=8&theme=onedark"> 
 <hr>
 
 <img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
+
 -->
