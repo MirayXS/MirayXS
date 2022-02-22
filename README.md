@@ -12,7 +12,7 @@
 <br><br>
 
 <h2><strong>📞 Contact Me: </strong></h2>
-<a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-hxd%233561-000000?style=flat&logo=discord"/></a>
+<a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-pxnda%233561-000000?style=flat&logo=discord"/></a>
 
 ```js
 class Stark {
@@ -21,7 +21,7 @@ class Stark {
         this.sex = "male",
         this.type = "human",
         this.hobby = "coding",
-        this.discord.tag = "hxd#3561",
+        this.discord.tag = "pxnda#3561",
 	this.pronouns = "he/him",
 	this.languages = "it/en"
     };
