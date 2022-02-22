@@ -19,9 +19,12 @@
 class Stark {
     constructor(options) {
         this.name = "Ivan",
+        this.sex = "male",
         this.type = "human",
         this.hobby = "coding",
-        this.discord.tag = "pxnda#3561"
+        this.discord.tag = "pxnda#3561",
+	this.pronouns = "he/him",
+	this.languages = "it/en"
     };
 }
 
