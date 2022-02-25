@@ -12,7 +12,7 @@
 <br><br>
 
 <h2><strong>📞 Contact Me: </strong></h2>
-<a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-pxnda%233561-000000?style=flat&logo=discord"/></a>
+<a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-Shinnyan%233561-000000?style=flat&logo=discord"/></a>
 
 ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
 ![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch&color=8A96E9)
@@ -27,7 +27,7 @@ class Stark {
         this.sex = "male",
         this.type = "human",
         this.hobby = "coding",
-        this.discord.tag = "pxnda#3561",
+        this.discord.tag = "Shinnyan#3561",
 	this.pronouns = "he/him",
 	this.languages = "it/en"
     };
