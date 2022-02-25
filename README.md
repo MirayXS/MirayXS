@@ -20,7 +20,6 @@
 ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
 
 <a href="https://discord.com/users/325605285731500033"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/325605285731500033?animated=true"></a>
-<img src="https://cdn.discordapp.com/attachments/698255670302212106/946860808363716678/Shinnyangithub.com_MirayXS.png" height="250">
 ```js
 class Stark {
     constructor(options) {
@@ -45,7 +44,6 @@ module.exports = Stark
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Ivan's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB&hide=lua&hide_border=true" /></a> |
 | ------------- | ------------- |
 <img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=7"> | <img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
-
 <!--
 
 <img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=8&theme=onedark"> 
