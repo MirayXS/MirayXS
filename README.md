@@ -20,7 +20,7 @@
 ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
 
 <a href="https://discord.com/users/325605285731500033"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/325605285731500033?animated=true"></a>
-<img src="https://cdn.discordapp.com/attachments/698255670302212106/946860808363716678/Shinnyangithub.com_MirayXS.png" height="444">
+<img src="https://cdn.discordapp.com/attachments/698255670302212106/946860808363716678/Shinnyangithub.com_MirayXS.png" height="300">
 ```js
 class Stark {
     constructor(options) {
