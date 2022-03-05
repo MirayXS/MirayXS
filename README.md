@@ -14,10 +14,10 @@
 <h2><strong>📞 Contact Me: </strong></h2>
 <a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-Shinnyan%233561-000000?style=flat&logo=discord"/></a>
 
-![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
-![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch&color=8A96E9)
-![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033)
-![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
+![](https://img.shields.io/endpoint?label=&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=5E5E5E)
+![](https://img.shields.io/endpoint?label=&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch&color=5E5E5E)
+![](https://img.shields.io/endpoint?label=&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033&color=5E5E5E)
+![](https://img.shields.io/endpoint?label=&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=5E5E5E)
 
 <a href="https://discord.com/users/325605285731500033"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/325605285731500033?animated=true"></a>
 ```js
