@@ -5,10 +5,21 @@
 
 <h2><strong>🛠️ Development Environment: </strong></h2>
 <a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
+<a href="https://www.nintendo.com/switch/"><img src="https://img.shields.io/badge/-Nintendo Switch-e60012?style=flat&logo=Nintendo Switch"/></a>
+<a href="https://switchroot.org/"><img src="https://img.shields.io/badge/-Switchroot Android-167C80?style=flat&logo=lineageos"/></a>
+
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-4a7558?style=flat&logo=node.js&logoColor=white"/></a>
 <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logoColor=white&logo=discord"/></a>
 
+<h2><strong>⚙️ "Consloles Hacked": </strong></h2>
+<code>Wii U Black 5.5.5E Mocha CFW & Tiramisu Environment & HBL</code>
+
+<code>Nintendo 3DS XL Blue 11.15.0-47E Luma 10.2.1-d0a44fd2</code>
+
+<code>Nintendo Switch Neon Blue+Red JoyCons 13.2.1 Hekate v5.7.0 Atmosphere 1.2.6</code>
+
+<code>Switchroot Android 10 LineageOS 17.1 (March 9, 2022)</code>
 <br><br>
 
 <h2><strong>📞 Contact Me: </strong></h2>
