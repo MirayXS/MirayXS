@@ -19,7 +19,7 @@
 
 <code>Nintendo Switch Neon Blue+Red JoyCons 13.2.1 Hekate v5.7.0 Atmosphere 1.2.6</code>
 
-<code>Switchroot Android 10 LineageOS 17.1 (March 9, 2022)</code>
+<code>Switchroot Android 10 LineageOS 17.1 (LCED:March 9, 2022)</code>
 <br><br>
 
 <h2><strong>📞 Contact Me: </strong></h2>
