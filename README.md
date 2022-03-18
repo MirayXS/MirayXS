@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/-Wii U Black 5.5.5E Mocha CFW & Tiramisu Environment & HBL + 102 2812-8B8B8B?style=flat&logo=nintendo network&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Nintendo 3DS XL Blue 11.15.0 47E Luma 10.2.1 d0a44fd2-D12228?style=flat&logo=nintendo 3ds&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Nintendo Switch Neon Blue+Red JoyCons 13.2.1 Hekate v5.7.0 Atmosphere 1.2.6-E60012?style=flat&logo=nintendo switch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Switchroot Android 10 LineageOS 17.1 (LCED:March 9, 2022)-167C80?style=flat&logo=lineageos&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Switchroot Android 10 LineageOS 17.1-167C80?style=flat&logo=lineageos&logoColor=white"/></a>
 <br><br>
 
 <h2><strong>📞 Contact Me: </strong></h2>
