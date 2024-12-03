@@ -224,7 +224,7 @@
                     <rect mask="url(#languages-bar)" x="347.5016951472134" y="0" width="68.06932729982378" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="415.5710224470372" y="0" width="18.245542629286632" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="433.81656507632385" y="0" width="13.042867007147612" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.85943208347146" y="0" width="11.554869893563417" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.85943208347146" y="0" width="11.554869893563417" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="458.4143019770349" y="0" width="1.0276991053710618" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="459.4420010824059" y="0" width="0.5579989175940728" height="8" fill="#3178c6"/>
                 </svg>
@@ -261,7 +261,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -1619,7 +1619,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4428473648186273 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5277207392197214 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1959,7 +1959,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 13:46:36 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 14:32:37 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
